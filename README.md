@@ -2,5 +2,6 @@
 ## 주차별 학습 내용
 ### 1. 전략(Strategy) 패턴<br>
 ### 2. 어뎁터(Apadter) 패턴<br>
-### 3. 브지(Bridge) 패턴<br>
+### 3. 브릿지(Bridge) 패턴<br>
+
 
