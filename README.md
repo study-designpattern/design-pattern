@@ -5,4 +5,6 @@
 ### 3. 브릿지(Bridge) 패턴<br>
 ### 4. 옵저버(Observer) 패턴 (온라인 대체)<br>
 ### 5. 컴포짓(composite) 패턴 (온라인 대체)<br>
+### 6. 싱글톤(Singleton) 패턴<br>
+### 7. 프로토타입(Prototype pattern) 패턴 <br>
 
